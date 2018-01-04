@@ -26,3 +26,13 @@ blockquote {
   margin-right: 0px;
   margin-left: -15px;
 }
+
+.col-md-4 img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.navbar-brand img {
+  max-width: 100%;
+  max-height: 100%;
+}
